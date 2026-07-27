@@ -50,4 +50,3 @@ Estudante de Computação pela UFF desenvolvendo habilidades na área tech como 
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/emilyverli54-lang">emilyverli54-lang</a></i></p>
-
