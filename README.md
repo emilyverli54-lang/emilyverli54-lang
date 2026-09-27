@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Estudante de Computação pela UFF desenvolvendo habilidades na área tech como lógica de programação, análise de dados, programação em JavaScript e Python.
+Estudante de Computação pela UFF desenvolvendo habilidades na área tech como lógica de programação, desenvolvimento front-end, programação em JavaScript e Python.
 
 🌱 &nbsp;I'm currently learning **Banco de Dados e Sql**
 
